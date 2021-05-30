@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">seq1</string>
+    <string name="label_pseudo">Pseudo</string>
+    <string name="btn_OK">OK</string>
+    <string name="btn_new_list">Nouvelle Liste</string>
+    <string name="btn_new_item">Nouvel Item</string>
+</resources>
