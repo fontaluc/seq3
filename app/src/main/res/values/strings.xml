@@ -1,7 +1,9 @@
 <resources>
-    <string name="app_name">seq1</string>
+    <string name="app_name">seq3</string>
     <string name="label_pseudo">Pseudo</string>
     <string name="btn_OK">OK</string>
     <string name="btn_new_list">Nouvelle Liste</string>
     <string name="btn_new_item">Nouvel Item</string>
+    <string name="url">URL du serveur</string>
+    <string name="mdp">Mot de passe</string>
 </resources>

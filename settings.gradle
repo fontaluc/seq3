@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "seq1"
+rootProject.name = "seq3"

@@ -2,9 +2,9 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
 
     <EditTextPreference
-        android:defaultValue="false"
-        android:key="pseudo"
+        android:defaultValue="http://tomnab.fr/todo-api"
+        android:key="url"
         android:selectAllOnFocus="true"
         android:singleLine="true"
-        android:title="Pseudo" />
+        android:title="@string/url" />
 </PreferenceScreen>
